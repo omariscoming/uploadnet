@@ -1,0 +1,20 @@
+{
+  "sessions": [
+    {
+      "id": "1354048303:1354048303",
+      "data": {
+        "getChannel": null,
+        "link": "https://t.me/uploadnetbot?start=674cbe6e8cc26527c4ea4603",
+        "fileId": "674cbe6e8cc26527c4ea4603"
+      }
+    },
+    {
+      "id": "6860884653:6860884653",
+      "data": {
+        "getChannel": "getData",
+        "fileId": "674cb528ac028b94b6361de2",
+        "link": "https://t.me/uploadnetbot?start=674cb528ac028b94b6361de2"
+      }
+    }
+  ]
+}
